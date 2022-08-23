@@ -13,7 +13,10 @@ import java.util.List;
  * @create: 2022-07-31 13:36
  **/
 public class UserMapper {
-    
-                      
-    }
+    List<Integer> ad(){return new ArrayList<>();}
+    //git添加1
+        ads add(){
+            return new ads();
+        }
+
 }
